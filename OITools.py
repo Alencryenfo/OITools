@@ -23,6 +23,12 @@ using namespace std;
 
 using ll = long long;
 using ull = unsigned long long;
+using pii = pair<int, int>;
+
+void solve(){{
+
+    return ;
+}}
 
 signed main() {{
 #ifdef DEBUG
@@ -33,8 +39,12 @@ signed main() {{
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
     cout.tie(nullptr);
-    
-    
+
+    int T;
+    cin >> T;
+    while(T--){{
+        solve();
+    }}
     return 0;
 }}
 /*
@@ -45,9 +55,9 @@ signed main() {{
 "内存限制":256,
 "自动测试":1,
 }}
-<<X
+<<
 
->>X
+>>
 
 */'''
 
